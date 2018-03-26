@@ -1,7 +1,7 @@
 import React from "react";
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
 
-import s from "./App.scss"
+import s from "./App.scss";
 
 const App = () => {
     return (
